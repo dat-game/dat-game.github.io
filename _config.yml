@@ -1,0 +1,107 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Chase Huegel
+email: ultimga@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Chase is an enthusiastic developer and problem solver with a strong foundation in business & tech. He is a father, hobby artist, go-to tech support, and dungeon master that loves the great outdoors and adventures in coding.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://chasehuegel.io" # the base hostname & protocol for your site
+twitter_username: WaywardBeyond
+github_username: ChaseHuegel
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Build settings
+theme: jekyll-dash
+plugins:
+  - jekyll-feed
+  - jekyll/tagging
+  - liquid-md5
+  - jekyll-paginate
+  - jekyll_icon_list
+  - jekyll-inline-svg
+
+# Icons
+icon_list:
+  default_path: /images/icons/
+  defaults:
+    ul: class="icon-list"
+    li: class="icon-list"
+    svg: overflow="visible" class="icon"
+    img: class="icon"
+    a: example-attribute="example-value"
+
+svg:
+  optimize: true
+
+# =====================================================
+# jekyll-dash config
+#
+
+# required by disqus to display comments
+url: https://your-site-url
+
+# jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# jekyll-tagging (optional)
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+dash:
+  # the way how dates should be displayed
+  date_format: "%b %-d, %Y"
+
+  # (optional) discqus comment configuration
+  disqus:
+    shortname: <your-disqus-shortname>
+
+  # the animation speed of the post scroll-in effect
+  animation_speed: 50
+
+  # wether to enable Right-to-Left support or not
+  rtl: false
+
+  # Replaces the default avatar provider (gravatar)
+  avatar_source: github
+  github_username: ChaseHuegel
+  #avatar_source: local
+  #avatar_path: /assets/avatar.png
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://www.linkedin.com/in/chase-huegel-62532220b/
+      icon: linkedin
+      color: blue
+    - url: https://github.com/ChaseHuegel
+      icon: github-square
+      color: purple
+    - url: https://www.youtube.com/channel/UCBhp15ZCM8WtBIGOVXVZ3Lw
+      icon: youtube-square
+      color: red
+    - url: https://twitter.com/waywardbeyond
+      icon: twitter-square
+      color: cyan
+
+  # wether the author box should be displayed or not
+  show_author: true

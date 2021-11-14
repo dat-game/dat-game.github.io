@@ -1,0 +1,31 @@
+example:
+  icon: 
+  label: 
+  url: 
+c#:
+  icon: csharp.svg
+  label: C#
+c++:
+  icon: cplusplus.svg
+  label: C++
+sql:
+  icon: microsoftsqlserver.svg
+  label: SQL
+opengl:
+  icon: opengl.svg
+  label: OpenGL
+javascript:
+  icon: javascript.svg
+  label: JavaScript
+git:
+  icon: git.svg
+  label: git
+lua:
+  icon: lua.svg
+  label: Lua
+css:
+  icon: css.svg
+  label: CSS
+html:
+  icon: html.svg
+  label: HTML
