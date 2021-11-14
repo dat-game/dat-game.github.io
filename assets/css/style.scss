@@ -144,7 +144,6 @@ ul.collage-list li {
 * Other
 */
 .pages {
-	float: center;
 	display: inline-block;
 	padding-left: 1em;
 
@@ -153,6 +152,32 @@ ul.collage-list li {
 		padding-left: 0.5em;
 		font-size: $post-link-font-size * 0.9;
 	}
+}
+
+.toggleWrapper {
+	display: inline-block;
+	position:fixed;
+	bottom: 3em;
+	right: 9em;
+
+	input {
+		display: none !important;
+	}
+}
+
+.back-to-top {
+	display: block;
+	font-size: 2em;
+	position: fixed;
+	bottom: 2em;
+	right: 2.95em;
+	font-weight: 900;
+	font-family: "Font Awesome 5 Free";
+}
+
+.back-to-top:after {
+	padding: 0.2em;
+	content: "\f062";
 }
 
 .social_links:before {

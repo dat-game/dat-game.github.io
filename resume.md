@@ -62,3 +62,7 @@ Self-employed 2010 - 2015
 - Full Stack Devleopment
 - Tools and Mod development
 - Independent Game Development
+
+{% include_relative contactDetails.md %}
+
+{% include back-to-top.html %}
