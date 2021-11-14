@@ -90,18 +90,21 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://www.linkedin.com/in/chase-huegel-62532220b/
-      icon: linkedin
-      color: blue
     - url: https://github.com/ChaseHuegel
       icon: github-square
       color: purple
+    - url: https://www.linkedin.com/in/chase-huegel-62532220b/
+      icon: linkedin
+      color: cyan
+    - url: https://discordapp.com/users/126193359999074304
+      icon: discord
+      color: blue
     - url: https://www.youtube.com/channel/UCBhp15ZCM8WtBIGOVXVZ3Lw
       icon: youtube-square
       color: red
     - url: https://twitter.com/waywardbeyond
       icon: twitter-square
-      color: cyan
+      color: teal
 
   # wether the author box should be displayed or not
   show_author: true
