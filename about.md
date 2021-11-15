@@ -75,5 +75,3 @@ Check out the [Jekyll docs](jekyll-docs) for more info on how to get the most ou
 #### Header 4
 ##### Header 5
 ###### Header 6
-
-{% include back-to-top.html %}
