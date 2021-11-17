@@ -15,6 +15,7 @@ permalink: /resume/
 {: class="collage-list"}
 
 ### Other Courses
+* * *
 
 - C++ Programming for Game Developers
 - Programming in Java
