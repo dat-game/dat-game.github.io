@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="https://your-site-url/feed.xml" rel="self" type="application/atom+xml" /><link href="https://your-site-url/" rel="alternate" type="text/html" /><updated>2021-11-17T20:41:50+00:00</updated><id>https://your-site-url/feed.xml</id><title type="html">Chase Huegel</title><subtitle>Chase is an enthusiastic developer and problem solver with a strong foundation in business &amp; tech. He is a father, hobby artist, go-to tech support, and dungeon master that loves the great outdoors and adventures in coding.</subtitle><entry><title type="html">Hello World!</title><link href="https://your-site-url/2021/11/17/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2021-11-17T20:40:00+00:00</published><updated>2021-11-17T20:40:00+00:00</updated><id>https://your-site-url/2021/11/17/hello-world</id><content type="html" xml:base="https://your-site-url/2021/11/17/hello-world.html">&lt;p class=&quot;console&quot;&gt;Welcome to my personal site&lt;/p&gt;
+
+&lt;p&gt;My name is Chase but I also go by &lt;em&gt;“Seven”&lt;/em&gt; online and I am a mid 20s self-taught dev. I started coding when I was 11 and it kicked off a fascination with all things tech: hardware, software, programming, gaming, and generally how computers do things behind the screen.&lt;/p&gt;
+
+&lt;p&gt;I know a bit of everything when it comes to tech which makes me the go-to for hardware, software, or gaming woes from friends, family, and colleagues. All else fails, some troubleshooting or &lt;a href=&quot;https://www.urbandictionary.com/define.php?term=google-fu&quot;&gt;google-fu&lt;/a&gt; does the trick.&lt;/p&gt;
+
+&lt;p&gt;More than anything I am a developer strong in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C#&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Java&lt;/code&gt; with experience across mediums like software, games, databases, servers, web, and more. I’ve been learning for over a decade. and just like with tech I’ve touched on most aspects of development.&lt;/p&gt;
+
+&lt;p&gt;This blog is dedicated to my ramblings so I can stop driving my wife and family nuts, I find discussing a topic helps me to better understand it or realize I need to learn more.&lt;/p&gt;
+
+&lt;ul class=&quot;done&quot;&gt;
+  &lt;li&gt;I blog about prototypes, exploring new concepts, or whatever I am currently working on. Generally rambling about my latest adventures in coding.&lt;/li&gt;
+  &lt;li&gt;I am transferring content from an old blog and will continue to post new stuff, so stay tuned!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;As a kid I loved (still do!) to create, fix, and build things. My father was a coder so naturally tried to get me into programming. I saw &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C++&lt;/code&gt; on his screen &lt;em&gt;a lot&lt;/em&gt; and it’s awfully intimidating for a grade-schooler. He gave me a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C++&lt;/code&gt; book that collected dust on my desk forever… That is until one evening I was bored, cracked open the book, installed Visual Studio, and never turned back.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you learn C++ then you will be able to learn any language!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have heard this in one form or another countless times from my father, forums, videos, and even in the foreword of that book! I thought it was nonsense but 11 year old me rolled with it anyways. Looking back it was a cake walk exploring other languages and environments and perhaps I owe thanks to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C++&lt;/code&gt; for that.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-steps&quot;&gt;First Steps&lt;/h2&gt;
+&lt;p&gt;I got started by exploring games, it gave me quick feedback to what I was writing (or failing to). Few months go by learning &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C++&lt;/code&gt; and I had a text-based game engine, amazed by the possibilities. A while later I got into 2D with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Visual Basic&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;VBScript&lt;/code&gt;, and toying with &lt;a href=&quot;https://www.onrpg.com/games/mirage-source-game-engine/&quot;&gt;Mirage Source&lt;/a&gt; and its offshoots like &lt;a href=&quot;https://www.indiedb.com/engines/eclipse-origins&quot;&gt;Eclipse&lt;/a&gt; confronting engines and tooling for the first time.&lt;/p&gt;
+
+&lt;p&gt;I explored a couple other languages (especially scripting), game engines, and modding games like &lt;a href=&quot;https://en.wikipedia.org/wiki/Counter-Strike#Counter-Strike&quot;&gt;Counter-Strike 1.6&lt;/a&gt;, &lt;a href=&quot;https://elderscrolls.bethesda.net/en/morrowind&quot;&gt;Morrowind&lt;/a&gt;, and &lt;a href=&quot;https://combatarms-r.valofe.com/&quot;&gt;Combat Arms&lt;/a&gt;. I tinkered created small tools for modding and a couple engines, including DLL libraries for &lt;a href=&quot;https://www.yoyogames.com/en/gamemaker&quot;&gt;GameMaker 7/8&lt;/a&gt;. I eventually decided to write a hot-loading &lt;a href=&quot;https://github.com/ChaseHuegel/chs-script&quot;&gt;scripting language&lt;/a&gt; in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C++&lt;/code&gt; and incorporated into my own DX game engine.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I built a bunch of things during that time and the few complete or fun enough were released on various game dev forums…&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tuxedo Battle&lt;/strong&gt; a 3D fighting game where you defend the honor of your insulted tux in &lt;a href=&quot;https://streetfighter.com/&quot;&gt;street fighter&lt;/a&gt; inspired action! This won a school-run game design competition&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Super Pong&lt;/strong&gt; fast paced 4-player verus game inspired by &lt;a href=&quot;https://en.wikipedia.org/wiki/Warlords_(1980_video_game)&quot;&gt;Atari Warlords&lt;/a&gt; where each player defends their “fort” from a ball using paddles&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eternal Realms&lt;/strong&gt; a 2D skilling ORPG inspired by &lt;a href=&quot;https://www.runescape.com/community&quot;&gt;runescape&lt;/a&gt;. It ran for 2 years off donations.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Circa 1350&lt;/strong&gt; medieval kingdom management game planned to evolve into a &lt;a href=&quot;http://www.bay12games.com/dwarves/&quot;&gt;Dwarf Fortress&lt;/a&gt; inspired colony sim. This was the first game I didn’t release for free and it collected a modest number of sales.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ObjectMaster&lt;/strong&gt; an object implementation alternative to the builtin for &lt;a href=&quot;https://www.yoyogames.com/en/gamemaker&quot;&gt;GameMaker 7/8&lt;/a&gt;. Performance began to break down around 100 objects to a scene in GameMaker, so I wrote an Entity-like solution which pushed that up to around &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;3,000&lt;/code&gt; objects. This was used in a &lt;a href=&quot;https://store.steampowered.com/&quot;&gt;Steam&lt;/a&gt; game with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;20,000+ reviews&lt;/code&gt; until the faster GM:Studio released.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;moving-forward&quot;&gt;Moving Forward&lt;/h2&gt;
+&lt;p&gt;A couple years later I looked toward exploring software and architecture to mature my dev process. I picked up &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Java&lt;/code&gt; developing plugins for &lt;a href=&quot;https://www.minecraft.net/en-us&quot;&gt;Minecraft&lt;/a&gt; server software called &lt;a href=&quot;https://bukkit.org/&quot;&gt;Bukkit&lt;/a&gt;, these ranged from game mods to APIs and creating hooks between plugins.&lt;/p&gt;
+
+&lt;p&gt;I got into server administration eventually running my own Minecraft server that I supported for many years where I fostered a community and built friendships strong to this day! During that time I picked up &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C#&lt;/code&gt; and built a suite of tools for file management, monitoring, support ticketing, and editing configs and databases. I learned a lot during those years!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/radialmenu.jpg&quot; alt=&quot;radial menu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also co-wrote &lt;a href=&quot;http://radialmenu.weebly.com/&quot;&gt;RadialMenu&lt;/a&gt; with my father in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C#&lt;/code&gt; where I was in charge of fixing bugs, design, QA, and structuring the app. It gives you a toolbar and, well, radial menu for shortcuts and macros for pens, tablets, and drawing monitors.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/wayward.jpg&quot; alt=&quot;wayward&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Deserving of a post of its own, I learned a lot from my most &lt;a href=&quot;http://waywardbeyond.weebly.com/what-is-wayward-beyond.html&quot;&gt;trying project&lt;/a&gt;. I wanted to attempt a larger project before college so spent 3 years full-time on a sim-lite space sandbox using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C#&lt;/code&gt; built on &lt;a href=&quot;https://unity.com/&quot;&gt;Unity&lt;/a&gt; and a custom written voxel engine. At the time &lt;a href=&quot;https://www.oculus.com/&quot;&gt;Oculus Rift&lt;/a&gt; was &lt;a href=&quot;https://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game&quot;&gt;Kickstarted&lt;/a&gt; and later near its release. I presented the project to the publishing director, securing a spot to launch with their upcoming store. I was also &lt;a href=&quot;https://steamcommunity.com/sharedfiles/filedetails/?id=419577736&quot;&gt;Greenlit&lt;/a&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;3,000 votes&lt;/code&gt; in under a month and partnered with &lt;a href=&quot;https://partner.steamgames.com/&quot;&gt;Steamworks&lt;/a&gt; to also launch on the &lt;a href=&quot;https://store.steampowered.com/&quot;&gt;Steam&lt;/a&gt; platform. The project was in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Top 20&lt;/code&gt; of &lt;a href=&quot;https://www.indiedb.com/&quot;&gt;IndieDB&lt;/a&gt; for a week and remained in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Top 100&lt;/code&gt; through development. It was ambitious and reached a beta-ready state before I had to put it aside to focus on school. It was an exciting and thrlling time!&lt;/p&gt;
+
+&lt;h2 id=&quot;today&quot;&gt;Today&lt;/h2&gt;
+&lt;p&gt;I continue to learn, improve, and have fun with programming by exploring different concepts and prototypes whether it’s an app or a game. I do a lot of reading, watching videos, and listen to talks but I’m  also a hands on learner so keep myself busy with side projects in my freetime between work, a baby, and 2 ferrets.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/windowmirror.jpg&quot; alt=&quot;wayward&quot; /&gt;
+Some of these projects are simple apps to fill a niche or specific use I have. A few have been to make my day job easier like &lt;a href=&quot;https://github.com/ChaseHuegel/WindowMirror&quot;&gt;WindowMirror&lt;/a&gt;, a quick tool to clean and reclaim screenspace at work, I have a bunch of windows up at any given time and it gets difficult playing jenga with them! Many of these apps are throwaways to learn and solve a quick problem, but projects like this may get more development if I see a good use for it.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/projects.jpg&quot; alt=&quot;wayward&quot; /&gt;
+Other projects are based in game dev exploring things like procedural animation, terrain generation, or AI and pathing. My latest big project is a full featured C# game engine that will have me touching on just about every aspect of developing apps, games, and tools. It is a real test of my knowledge, and having experience in both software and games has been a boon to the process. It also got me revisiting areas that I’m rusty in such as writing netcode or building a renderer, two areas I haven’t touched since college.&lt;/p&gt;
+
+&lt;h2 id=&quot;take-away&quot;&gt;Take Away&lt;/h2&gt;
+
+&lt;p&gt;I have taken a variety of classes through highschool and college related to programming, the code was the easy part but I realized that with a lack of conventional education I fell short in areas like structure, terminology, and standard practices. With some self-improvement and studying I was able to build on that.&lt;/p&gt;
+
+&lt;p&gt;The flip side is being self-taught pushed me to focus on the code itself, I learned to produce efficient and good code and naturally I thought outside the box to solve problems on my own. I was able to spend the time getting to know not only the environment and language that I work with, but the fundamentals of how things work that makes it simple to pick up new environments and stacks.&lt;/p&gt;
+
+&lt;p&gt;I find that I still have a little ways to go in learning terminology. Understanding terms and concepts is the easy part, it comes with a little time and effort, but writing good code only comes with experience.&lt;/p&gt;</content><author><name></name></author><summary type="html">Welcome to my personal site</summary></entry></feed>
